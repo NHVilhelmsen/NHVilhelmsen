@@ -1,1 +1,2 @@
-DevOps Trainee and sometimes Quality Assurance Test Automation in TIMEmSYSTEM
+# DevOps Trainee for TIMEmSYSTEM.
+> Also *occasional* IT support
